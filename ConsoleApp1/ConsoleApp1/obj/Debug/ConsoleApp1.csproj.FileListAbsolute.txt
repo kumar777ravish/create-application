@@ -1,0 +1,7 @@
+D:\petrol\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\petrol\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\petrol\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\petrol\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\petrol\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\petrol\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\petrol\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
